@@ -1,2 +1,6 @@
 *.pyc
 venv
+TODO
+secret
+*pycache*
+*.csv
